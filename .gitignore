@@ -8,3 +8,5 @@ node.py
 my_app.py
 creat_db.py
 playlist.py
+.ipynb_checkpoints/
+my_app.py
