@@ -1,4 +1,4 @@
-,channleName,title,id,kind
+,channelName,title,id,kind
 0,Programming with Mosh,Programming with Mosh,UCWv7vMbMWH4-V0ZXdmDpPBA,youtube#channel
 1,Traversy Media,Traversy Media,UC29ju8bIPH5as8OGnQzwJyA,youtube#channel
 2,Corey Schafer,Corey Schafer,UCCezIgC97PvUuR4_gbFUs5g,youtube#channel
@@ -9,7 +9,7 @@
 7,Clever Programmer,Clever Programmer,UCqrILQNl5Ed9Dz6CGMyvMTQ,youtube#channel
 8,Caleb Curry,Caleb Curry,UCZUyPT9DkJWmS_DzdOi7RIA,youtube#channel
 9,programming Hero,Programming Hero,UCStj-ORBZ7TGK1FwtGAUgbQ,youtube#channel
-10,naveen Reddy,Telusko,UC59K-uG2A5ogwIrHw4bmlEg,youtube#channel
+10,Telusko,Telusko,UC59K-uG2A5ogwIrHw4bmlEg,youtube#channel
 11,Code Basics,codebasics,UCh9nVJoWXmFb7sLApWGcLPQ,youtube#channel
 12,Maximilian Schwarzmüller,Academind,UCSJbGtTlrDami-tDGPUV9-w,youtube#channel
 13,sentdex,sentdex,UCfzlCWGWYyIQ0aLC5w48gBQ,youtube#channel
@@ -26,47 +26,45 @@
 24,WesBos,Wes Bos,UCoebwHSTvwalADTJhps0emA,youtube#channel
 25,Gajesh S. Naik,Gajesh S Naik,UC7PWnwwqMSqAXQkKXqxRkMw,youtube#channel
 26,Ben Awad,Ben Awad,UC-8QAzbLcRglXeN_MY9blyw,youtube#channel
-27,Telusko,Telusko,UC59K-uG2A5ogwIrHw4bmlEg,youtube#channel
-28,Codevolution,Codevolution,UC80PWRj_ZU8Zu0HSMNVwKWw,youtube#channel
-29,Hussein Nasser,Hussein Nasser,UC_ML5xP23TOWKUcc-oAE_Eg,youtube#channel
-30,Dev Ed,Dev Ed,UClb90NQQcskPUGDIXsQEz5Q,youtube#channel
-31,Brackeys,Brackeys,UCYbK_tjZ2OrIZFBvU6CCMiA,youtube#channel
-32,Rachit Jain,Rachit Jain,UC9fDC_eBh9e_bogw87DbGKQ,youtube#channel
-33,Kyle Cook,Kyle Cook,UC_ov4ZPZej97M9kN1_lgtMg,youtube#channel
-34,Scott Hansellman,Scott Hanselman,UCL-fHOdarou-CR2XUmK48Og,youtube#channel
-35,PortEXE,PortEXE,UCjGQyJCSU_VVMTu5nigonqg,youtube#channel
-36,Joshua Fluke,Joshua Fluke,UC-91UA-Xy2Cvb98deRXuggA,youtube#channel
-37,Web Dev Simplified,Web Dev Simplified,UCFbNIlppjAuEX4znoulh0Cw,youtube#channel
-38,Joma,Joma Tech,UCV0qA-eDDICsRR9rPcnG7tw,youtube#channel
-39,Tren Black,Tren Black,UCSSBvqWNPq_qO3_W4EJiOAA,youtube#channel
-40,Nick Chapsas,Nick Chapsas,UCrkPsvLGln62OMZRO6K-llg,youtube#channel
-41,CodingEntrepreneurs,CodingEntrepreneurs,UCWEHue8kksIaktO8KTTN_zg,youtube#channel
-42,Programming With ERik,Program With Erik,UCshZ3rdoCLjDYuTR_RBubzw,youtube#channel
-43,Forest Knight,ForrestKnight,UC2WHjPDvbE6O328n17ZGcfg,youtube#channel
-44,Keith Galli,Keith Galli,UCq6XkhO5SZ66N04IcPbqNcw,youtube#channel
-45,Pretty Printed,Pretty Printed,UC-QDfvrRIDB6F0bIO4I4HkQ,youtube#channel
-46,Derek Banas,Derek Banas,UCwRXb5dUK4cvsHbx-rGzSgw,youtube#channel
-47,The Cherno,The Cherno,UCQ-W1KE9EYfdxhL6S4twUNw,youtube#channel
-48,the coding train,The Coding Train,UCvjgXvBlbQiydffZU7m1_aw,youtube#channel
-49,Angelsix,AngelSix,UCJ3AxeCHGPZkMi3kRfCuiHw,youtube#channel
-50,CodingWithMitch,CodingWithMitch,UCoNZZLhPuuRteu02rh7bzsw,youtube#channel
-51,Chris Hawkes,Chris Hawkes,UCfV36TX5AejfAGIbtwTc7Zw,youtube#channel
-52,Chris Coyier,Chris Coyier,UCADyUOnhyEoQqrw_RrsGleA,youtube#channel
-53,Fazt,Fazt,UCX9NJ471o7Wie1DQe94RVIg,youtube#channel
-54,Prajwal NH ,IIMB Inventors Inventing Machine Business,UCWym_j-OGCzIfz8K4vXtU6g,youtube#channel
-55,Life of Luba,Life of Luba,UCgzKCeDYLRzPhQ64R6AKyBQ,youtube#channel
-56,chuck severance,Chuck Severance,UChYfrRp_CWyqOt-ZYJGOgmA,youtube#channel
-57,Will Kwan,Will Kwan,UCTjPBE9BNsmv44wgxWEy2zw,youtube#channel
-58,codingphase,CodingPhase,UC46wWUso9H5KPQcoL9iE3Ug,youtube#channel
-59,Pasja informatyki,Pasja informatyki,UCzn6vAfspIcagLax1fck_jw,youtube#channel
-60,Thomas Kim,Thomas Kim,UCc4lFNN1eR5Qf1JMUgECaKg,youtube#channel
-61,Life Of Boris,Life of Boris,UCS5tt2z_DFvG7-39J3aE-bQ,youtube#channel
-62,Data School,Data School,UCnVzApLJE2ljPZSeQylSEyg,youtube#channel
-63,Abhishek Thakur ,Abhishek Thakur,UCBPRJjIWfyNG4X-CRbnv78A,youtube#channel
-64,gaurav sen,Gaurav Sen,UCRPMAqdtSgd0Ipeef7iFsKw,youtube#channel
-65,Ryan Dhungel,Ryan Dhungel,UCu47q4mYoq9t0bINCWaTsgA,youtube#channel
-66,RealTough Candy,RealToughCandy,UC54NcJvLCvM2CNaBjd5j6HA,youtube#channel
-67,Papaya Coders,Papaya Coders,UCm8jfNyHA7FIrFdYQTOpy0g,youtube#channel
-68,Michael Reeves,Michael Reeves,UCtHaxi4GTYDpJgMSGy7AeSw,youtube#channel
-69,durga software solutions,Durga Software Solutions,UCbjozK_PYCTLEluFlrJ8UZg,youtube#channel
-70,perfect web solutions,Perfect Web Solutions,UCjM2CgqAXgXQuFjJa732IRw,youtube#channel
+27,Codevolution,Codevolution,UC80PWRj_ZU8Zu0HSMNVwKWw,youtube#channel
+28,Hussein Nasser,Hussein Nasser,UC_ML5xP23TOWKUcc-oAE_Eg,youtube#channel
+29,Dev Ed,Dev Ed,UClb90NQQcskPUGDIXsQEz5Q,youtube#channel
+30,Brackeys,Brackeys,UCYbK_tjZ2OrIZFBvU6CCMiA,youtube#channel
+31,Rachit Jain,Rachit Jain,UC9fDC_eBh9e_bogw87DbGKQ,youtube#channel
+32,Kyle Cook,Kyle Cook,UC_ov4ZPZej97M9kN1_lgtMg,youtube#channel
+33,Scott Hansellman,Scott Hanselman,UCL-fHOdarou-CR2XUmK48Og,youtube#channel
+34,PortEXE,PortEXE,UCjGQyJCSU_VVMTu5nigonqg,youtube#channel
+35,Joshua Fluke,Joshua Fluke,UC-91UA-Xy2Cvb98deRXuggA,youtube#channel
+36,Web Dev Simplified,Web Dev Simplified,UCFbNIlppjAuEX4znoulh0Cw,youtube#channel
+37,Joma,Joma Tech,UCV0qA-eDDICsRR9rPcnG7tw,youtube#channel
+38,Tren Black,Tren Black,UCSSBvqWNPq_qO3_W4EJiOAA,youtube#channel
+39,Nick Chapsas,Nick Chapsas,UCrkPsvLGln62OMZRO6K-llg,youtube#channel
+40,CodingEntrepreneurs,CodingEntrepreneurs,UCWEHue8kksIaktO8KTTN_zg,youtube#channel
+41,Programming With ERik,Program With Erik,UCshZ3rdoCLjDYuTR_RBubzw,youtube#channel
+42,Forest Knight,ForrestKnight,UC2WHjPDvbE6O328n17ZGcfg,youtube#channel
+43,Keith Galli,Keith Galli,UCq6XkhO5SZ66N04IcPbqNcw,youtube#channel
+44,Pretty Printed,Pretty Printed,UC-QDfvrRIDB6F0bIO4I4HkQ,youtube#channel
+45,Derek Banas,Derek Banas,UCwRXb5dUK4cvsHbx-rGzSgw,youtube#channel
+46,The Cherno,The Cherno,UCQ-W1KE9EYfdxhL6S4twUNw,youtube#channel
+47,the coding train,The Coding Train,UCvjgXvBlbQiydffZU7m1_aw,youtube#channel
+48,Angelsix,AngelSix,UCJ3AxeCHGPZkMi3kRfCuiHw,youtube#channel
+49,CodingWithMitch,CodingWithMitch,UCoNZZLhPuuRteu02rh7bzsw,youtube#channel
+50,Chris Hawkes,Chris Hawkes,UCfV36TX5AejfAGIbtwTc7Zw,youtube#channel
+51,Chris Coyier,Chris Coyier,UCADyUOnhyEoQqrw_RrsGleA,youtube#channel
+52,Fazt,Fazt,UCX9NJ471o7Wie1DQe94RVIg,youtube#channel
+53,Prajwal NH ,IIMB Inventors Inventing Machine Business,UCWym_j-OGCzIfz8K4vXtU6g,youtube#channel
+54,Life of Luba,Life of Luba,UCgzKCeDYLRzPhQ64R6AKyBQ,youtube#channel
+55,chuck severance,Chuck Severance,UChYfrRp_CWyqOt-ZYJGOgmA,youtube#channel
+56,Will Kwan,Will Kwan,UCTjPBE9BNsmv44wgxWEy2zw,youtube#channel
+57,codingphase,CodingPhase,UC46wWUso9H5KPQcoL9iE3Ug,youtube#channel
+58,Pasja informatyki,Pasja informatyki,UCzn6vAfspIcagLax1fck_jw,youtube#channel
+59,Thomas Kim,Thomas Kim,UCpQ9kTWohSlFgXIKJmFc4kA,youtube#channel
+60,Life Of Boris,Life of Boris,UCS5tt2z_DFvG7-39J3aE-bQ,youtube#channel
+61,Data School,Data School,UCnVzApLJE2ljPZSeQylSEyg,youtube#channel
+62,Abhishek Thakur ,Abhishek Thakur,UCBPRJjIWfyNG4X-CRbnv78A,youtube#channel
+63,gaurav sen,Gaurav Sen,UCRPMAqdtSgd0Ipeef7iFsKw,youtube#channel
+64,Ryan Dhungel,Ryan Dhungel,UCu47q4mYoq9t0bINCWaTsgA,youtube#channel
+65,RealTough Candy,RealToughCandy,UC54NcJvLCvM2CNaBjd5j6HA,youtube#channel
+66,Papaya Coders,Papaya Coders,UCm8jfNyHA7FIrFdYQTOpy0g,youtube#channel
+67,durga software solutions,Durga Software Solutions,UCbjozK_PYCTLEluFlrJ8UZg,youtube#channel
+68,perfect web solutions,Perfect Web Solutions,UCjM2CgqAXgXQuFjJa732IRw,youtube#channel
