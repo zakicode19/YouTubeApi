@@ -1,18 +1,55 @@
 ,channelId,title,description,country,viewCount,subscriberCount,videoCount,publishedAt,uploads
-0,UCXgGY0wkgOzynnHvSEVmE3A,Hitesh Choudhary,"Website: https://courses.LearnCodeOnline.in
-Hey there everyone, Hitesh here back again with another video!
-This means I create a lot of videos, every single week. I cover a wide range of subjects like programming, what's latest in tech, new frameworks, open-source products etc. I keep my interest in a wide area of tech like Javascript, Python, PHP, Machine Learning, etc.
+0,UC-ptWR16ITQyYOglXyQmpzw,IAmTimCorey,"My goal is to make your life easier, specifically when it comes to learning software development. I remember what it was like to not know even what questions to ask. In every video I do, I try to answer those questions. You will notice that I don't usually do quick videos. That's because I would rather help you understand rather than just padding my watch percentages. If you want more in-depth training, feel free to head over to my website (https://www.iamtimcorey.com) where I have courses dedicated to C#, SQL, and more.",US,16455620,238000,269,2011-10-14T18:24:47Z,UU-ptWR16ITQyYOglXyQmpzw
+1,UCqrILQNl5Ed9Dz6CGMyvMTQ,Clever Programmer,"You can find awesome programming lessons here! Also, expect programming tips and tricks that will take your coding skills to the next level.",US,40533878,965000,591,2016-03-12T08:59:15Z,UUqrILQNl5Ed9Dz6CGMyvMTQ
+2,UCoebwHSTvwalADTJhps0emA,Wes Bos,"HTML, CSS, JavaScript and WordPress web development tutorials!",CA,6790590,131000,234,2006-01-26T04:15:36Z,UUoebwHSTvwalADTJhps0emA
+3,UCSSBvqWNPq_qO3_W4EJiOAA,Tren Black,making dumb things and sometimes complaining,US,6078488,123000,28,2019-06-24T08:19:06Z,UUSSBvqWNPq_qO3_W4EJiOAA
+4,UCrkPsvLGln62OMZRO6K-llg,Nick Chapsas,"Microsoft MVP | Software Engineer | Blogger | OSS Maintainer
 
+Nick is a Software Engineer living in London. He is passionate about .NET development technologies such as .NET Core and  Azure and he may or may not have a really special relationship with CosmosDB. He is an Open-Source maintainer and a technical blogger and he tends to speak about himself in the third person.",GB,3309095,48000,141,2011-11-29T12:17:30Z,UUrkPsvLGln62OMZRO6K-llg
+5,UCxX9wt5FWQUAAz4UrysqK9A,CS Dojo,"Hello! My name is YK, and I usually make videos about programming and computer science here :)
 
-For the Business purpose, Sponsorships and invitation, reach out at hitesh@lco.dev
+Business email: https://www.csdojo.io/contact/
+The logo was made by: my friend Youdong Zhang
+",CA,63917047,1670000,96,2016-02-26T01:49:30Z,UUxX9wt5FWQUAAz4UrysqK9A
+6,UC8butISFwT-Wl7EV0hUK0BQ,freeCodeCamp.org,Learn to code for free.,US,188631396,3660000,1151,2014-12-16T21:18:48Z,UU8butISFwT-Wl7EV0hUK0BQ
+7,UC4xKdmAXFh4ACyhpiQ_3qBw,TechLead,"Ex-Google/ex-Facebook tech lead, multi-millionaire app entrepreneur, digital nomad traveler, software engineer. ☕️ 👌
 
-NOTE: Personal questions and code-related questions are not answered at this email. Post them in the course discussion section or react me out at social platforms.
+If you're looking for help landing a job as a software engineer, resume critique, and mentorship, join me at:
+http://techinterviewpro.com/
+http://coderpro.com/
 
-#iWriteCode
+Learn the secrets of YouTube success with me here:
+http://youtubebackstage.com/
 
-Instagram: https://instagram.com/hiteshchoudharyofficial
-Facebook: www.fb.com/HiteshChoudharyPage",IN,37201703,633000,1011,2011-10-24T10:25:16Z,UUXgGY0wkgOzynnHvSEVmE3A
-1,UCZUyPT9DkJWmS_DzdOi7RIA,Caleb Curry,"Programming Made Fun and Simple  
+Add me here:
+http://instagram.com/techleadhd
+http://twitter.com/techleadhd
+https://www.linkedin.com/in/patrickshyu/
+
+Business Inquiries: techleadhd@gmail.com",US,87516654,1060000,271,2016-09-20T15:57:20Z,UU4xKdmAXFh4ACyhpiQ_3qBw
+8,UCshZ3rdoCLjDYuTR_RBubzw,Program With Erik,"My name is Erik Hanchett and I'm a web and Java developer from Reno, Nevada. I've been a programmer for many years now and I've always been wanting to give back to the community. I started this channel, and my website (www.programwitherik.com) as a way to teach people what I know. 
+
+Surprisingly, I only started learning web development seriously in early 2015, before that I strictly programmed in Java.  I worked many nights and weekends getting up to speed and I blogged about my journey. I decided to focus on Ember.js and after about a year I wrote my first book on it! (http://goo.gl/LEIdSc  )!  Now a days I work in Ember.js/Vue.js/Phoenix and more!
+
+Stick around this channel, I do tutorials, advice and occasionaly I vlog! If you got this far please tweet me the words ""I read it"" at twitter.com/ERIKCH - That would make my day!",US,6543359,90500,576,2013-07-05T21:44:58Z,UUshZ3rdoCLjDYuTR_RBubzw
+9,UCWEHue8kksIaktO8KTTN_zg,CodingEntrepreneurs,"Coding for Entrepreneurs is a Programming Series for Non-Technical Founders. Learn Django, Python, APIs, Accepting Payments, Stripe, JQuery, Twitter Bootstrap, and much more. 
+
+Build great products with code: http://joincfe.com/
+
+For a list of Full Premium Courses on Udemy: http://bit.ly/16u7a45
+Sign up for Free on Udemy: http://bit.ly/1e4F6Wz",,15688637,178000,671,2013-06-30T00:56:13Z,UUWEHue8kksIaktO8KTTN_zg
+10,UC59K-uG2A5ogwIrHw4bmlEg,Telusko,"Hey Aliens!!!
+I make free programming tutorials from beginner to advanced level
+That includes Java for beginner, Advanced Java, Python, Android, Blockchain, JavaScript, Kotlin, Scala, Spring Framework, Hibernate, C programming, Data Structures, Networking, REST API, and many more.
+Sometimes I make videos on motivation and take sessions with Tech industry experts.
+There is something for everyone here. 
+
+If my videos have helped you in any way do support Telusko to make more content.
+For Donation 
+PayPal: https://goo.gl/ko8KrB
+Patreon: https://goo.gl/rYLSCs
+Instamojo: https://goo.gl/YSaZKT",IN,152856999,1380000,1458,2014-04-29T08:23:17Z,UU59K-uG2A5ogwIrHw4bmlEg
+11,UCZUyPT9DkJWmS_DzdOi7RIA,Caleb Curry,"Programming Made Fun and Simple  
 
 High quality tutorials that are fun, educational, and easy to follow.  Teaching programming is my passion!  I find joy in making complex material easy to understand.
 
@@ -21,28 +58,82 @@ I've decided that it is only right to upload videos of great quality and value. 
 As an Amazon Associate I earn from qualifying purchases.
 
 Business inquiries: hello@calebcurry.com 
-",US,27748158,376000,1381,2009-08-18T18:32:42Z,UUZUyPT9DkJWmS_DzdOi7RIA
-2,UC29ju8bIPH5as8OGnQzwJyA,Traversy Media,"Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more",US,139223547,1530000,878,2009-10-30T21:33:14Z,UU29ju8bIPH5as8OGnQzwJyA
-3,UCqrILQNl5Ed9Dz6CGMyvMTQ,Clever Programmer,"You can find awesome programming lessons here! Also, expect programming tips and tricks that will take your coding skills to the next level.",US,40116997,959000,590,2016-03-12T08:59:15Z,UUqrILQNl5Ed9Dz6CGMyvMTQ
-4,UC8butISFwT-Wl7EV0hUK0BQ,freeCodeCamp.org,Learn to code for free.,US,185736127,3620000,1146,2014-12-16T21:18:48Z,UU8butISFwT-Wl7EV0hUK0BQ
-5,UCWv7vMbMWH4-V0ZXdmDpPBA,Programming with Mosh,"I train professional software engineers that companies love to hire. 
+",US,27947936,379000,1386,2009-08-18T18:32:42Z,UUZUyPT9DkJWmS_DzdOi7RIA
+12,UCsBjURrPoezykLs9EqgamOA,Fireship,"High-intensity ⚡ code tutorials to help you build & ship your app faster. Subscribe for new videos every week covering intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development.
 
-My courses: http://codewithmosh.com 
+The original home of #100SecondsOfCode and #CodeThisNotThat. Created by Jeff Delaney. 
 
-My blog: http://programmingwithmosh.com
+Building an app? Get project support, advanced full courses, and more at https://fireship.io",US,42831781,689000,323,2017-04-07T18:17:23Z,UUsBjURrPoezykLs9EqgamOA
+13,UCvjgXvBlbQiydffZU7m1_aw,The Coding Train,"All aboard! The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more. Choo choo!",US,85934046,1280000,1112,2006-07-03T18:24:29Z,UUvjgXvBlbQiydffZU7m1_aw
+14,UC_ov4ZPZej97M9kN1_lgtMg,Kyle Cook,"Kyle Cook, Director
+Western Branch Middle School Chorus",,10652,161,9,2020-03-27T01:36:14.126848Z,UU_ov4ZPZej97M9kN1_lgtMg
+15,UCV0qA-eDDICsRR9rPcnG7tw,Joma Tech,"I talk about life in Silicon Valley, big tech companies, data science and software engineering.
 
-Connect on social media: 
+Joma Startup: A web series about me starting a startup called Notvine, an app that allows you to share 6.1 second looping videos
 
-http://www.twitter.com/moshhamedani
+Follow me on:
 
-https://www.facebook.com/programmingwithmosh
+Instagram: http://instagram.com/jomaoppa
+Facebook: https://www.facebook.com/jomaoppa/
+Twitter: https://twitter.com/jomaoppa
+Website: https:/joma.io/
 
-#python #javascript #chsarp",AU,78962399,1770000,160,2014-10-07T00:40:53Z,UUWv7vMbMWH4-V0ZXdmDpPBA
-6,UC4JX40jDee_tINbkjycV4Sg,Tech With Tim,"Learn programming, software engineering, machine learning and everything tech from this channel. With a special emphasis on python and javascript my channel aims to give you free resources so that you can learn to code and dive into the software engineering and programming industry. My goal is to provide the highest quality programming and tech videos on the internet! ",CA,49660216,658000,587,2014-04-23T01:57:10Z,UU4JX40jDee_tINbkjycV4Sg
-7,UCNU_lfiiWBdtULKOw6X0Dig,Krish Naik,"I work as a Lead Data Scientist, pioneering in machine learning, deep learning, and computer vision,an educator, and a mentor, with over 8 years' experience in the industry. This is my YouTube channel where I explain various topics on machine learning, deep learning, and AI with many real-world problem scenarios. I have delivered over 30 tech talks on data science, machine learning, and AI at various meet-ups, technical institutions, and community-arranged forums. My main aim is to make everyone familiar of ML and AI.Please subscribe and support the channel. As i love new technology, all these videos are free and I promise to make more interesting content as we go ahead.
+Personal Email: hello@joma.io
+Business Only: business@joma.io",US,79352007,1220000,86,2016-08-31T22:22:07Z,UUV0qA-eDDICsRR9rPcnG7tw
+16,UCq6XkhO5SZ66N04IcPbqNcw,Keith Galli,"Recent MIT Graduate. I make educational videos on Computer Science, Programming,  Board Games, and more!
 
-Please free to drop a mail for Product unboxing, GPU's unboxing and any other collaboration",IN,26087780,371000,1044,2012-02-11T04:05:06Z,UUNU_lfiiWBdtULKOw6X0Dig
-8,UCStj-ORBZ7TGK1FwtGAUgbQ,Programming Hero,"Learning is boring? Not any more. 
+I found online videos to be extremely helpful as I progressed through the educational system growing up so I decided to make a channel of my own. Let me know what I should make next!
+
+-Keith :)",US,7321789,116000,67,2016-12-27T20:18:51Z,UUq6XkhO5SZ66N04IcPbqNcw
+17,UCCezIgC97PvUuR4_gbFUs5g,Corey Schafer,"Welcome to my Channel. This channel is focused on creating tutorials and walkthroughs for software developers, programmers, and engineers. We cover topics for all different skill levels, so whether you are a beginner or have many years of experience, this channel will have something for you.
+
+We've already released a wide variety of videos on topics that include: Python, Git, Development Environments, Terminal Commands, SQL, Programming Terms, JavaScript, Computer Science Fundamentals, and plenty of other tips and tricks which will help you in your career.
+
+
+If you enjoy these videos and would like to support my channel, I would greatly appreciate any assistance through my Patreon account:
+https://www.patreon.com/coreyms
+
+
+You can find me on:
+My website - http://coreyms.com/
+Facebook - https://www.facebook.com/CoreyMSchafer
+Twitter - https://twitter.com/CoreyMSchafer
+Google Plus - https://plus.google.com/+CoreySchafer44/posts
+Tumblr - https://www.tumblr.com/blog/mycms",US,57821417,782000,230,2006-05-31T22:49:22Z,UUCezIgC97PvUuR4_gbFUs5g
+18,UCh9nVJoWXmFb7sLApWGcLPQ,codebasics,"I am Dhaval Patel, a software engineer by profession and a teacher by heart. I've worked with Nvidia and Bloomberg. I strongly believe ""Anyone Can Code"" ! No matter what your background and past skill set is, you can learn programming if it is taught in a simplistic and intuitive way. The goal of this channel is to fulfill this vision by teaching the programming in most simplest and intuitive manner.
+I teach simple programming, data science, data analytics, artificial intelligence, machine learning, data structures, software architecture etc on my channel.
+
+Disclaimer: All the content and opinion expressed on this channel are of my own and not of my employer's.",US,19242019,320000,401,2015-11-07T17:29:46Z,UUh9nVJoWXmFb7sLApWGcLPQ
+19,UCeVMnSShP_Iviwkknt83cww,CodeWithHarry,"Code With Harry is my attempt to teach basics and those coding techniques to people in short time which took me ages to learn.
+At Code With Harry, I provide a quick and to the point demo along with resources of anything and everything I teach. Source code and other resources are hosted on my website CodeWithHarry.com. I provide source code(if any) in the description of every video.
+Quality programming videos in Hindi :)",IN,117072515,1440000,1244,2018-04-28T14:50:54Z,UUeVMnSShP_Iviwkknt83cww
+20,UC7PWnwwqMSqAXQkKXqxRkMw,Gajesh S Naik,"I am Gajesh Naik, 13 y/o. Besides the curriculum, I keep an interest in Computer Science and Emerging Technologies. My channel has viewership from 120+ countries across seven continents. I have learned Scratch, C, C++, Java, JSP, HTML, CSS, JavaScript, Solidity, WordPress, Web3.js and React.js
+
+I am a propounder of open source technology including the Linux operating system. At my leisure, I experiment on the Arduino Board in my own Mini Laboratory. I have a modest collection of Books relating to Computer Science and related topics. 
+
+For Business inquiry:
+robogajesh@gmail.com",IN,484888,9430,89,2016-07-29T11:04:06Z,UU7PWnwwqMSqAXQkKXqxRkMw
+21,UC-QDfvrRIDB6F0bIO4I4HkQ,Pretty Printed,"I'm Anthony. I make programming videos.
+
+Feel free to send any requests for videos.",US,9720715,71800,431,2015-11-18T21:40:58Z,UU-QDfvrRIDB6F0bIO4I4HkQ
+22,UClb90NQQcskPUGDIXsQEz5Q,Dev Ed,"Learn web development, web design, 3d modelling, tools like figma and more without getting bored!
+
+The goes of this channel is to get you to become as creative you can be!
+
+So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!",RO,33663196,650000,203,2018-05-27T14:48:23Z,UUlb90NQQcskPUGDIXsQEz5Q
+23,UC4JX40jDee_tINbkjycV4Sg,Tech With Tim,"Learn programming, software engineering, machine learning and everything tech from this channel. With a special emphasis on python and javascript my channel aims to give you free resources so that you can learn to code and dive into the software engineering and programming industry. My goal is to provide the highest quality programming and tech videos on the internet! ",CA,50278115,664000,591,2014-04-23T01:57:10Z,UU4JX40jDee_tINbkjycV4Sg
+24,UCFbNIlppjAuEX4znoulh0Cw,Web Dev Simplified,"Web Dev Simplified is all about teaching web development skills and techniques in an efficient and practical manner. If you are just getting started in web development Web Dev Simplified has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. Web Dev Simplified also deep dives into advanced topics using the latest best practices for you seasoned web developers.
+
+I started Web Dev Simplified in order to share my passion for web development, and do what I truly love. Teach and inspire new web developers. I have been in love with full stack web development since 2015 when I did my first internship as a web developer. Ever since then I have pursued my passion, learning everything there is to know about web development. Over the years I have taught many colleagues and friends the joys of web development, and cannot wait to teach you.
+
+Thank you for watching!",US,29157224,559000,313,2018-05-24T16:26:39Z,UUFbNIlppjAuEX4znoulh0Cw
+25,UCYbK_tjZ2OrIZFBvU6CCMiA,Brackeys,"Learn how to make video games!
+
+Top-quality game development tutorials on everything from Unity and programming to game design. If you want to become a developer this channel will help guide you through it!
+
+Join us on Discord: https://discord.gg/brackeys",DK,152404860,1400000,461,2012-12-22T23:21:35Z,UUYbK_tjZ2OrIZFBvU6CCMiA
+26,UCwRXb5dUK4cvsHbx-rGzSgw,Derek Banas,I make tutorials based on your requests. I will cover any topic you can imagine. I upload new videos everyday. I'm currently teaching a series on data science and machine learning.,US,107285975,1130000,1158,2008-08-12T15:35:35Z,UUwRXb5dUK4cvsHbx-rGzSgw
+27,UCStj-ORBZ7TGK1FwtGAUgbQ,Programming Hero,"Learning is boring? Not any more. 
 Programming is frustrating? No longer.
 
 Go watch any of our videos and you'll start having a romantic perspective on programming. 
@@ -58,19 +149,283 @@ Hit us with any kind of query on our Discord server (link below) and if needed w
 Regards,
 Grandma's First GrandKids 😉
 
-",US,4749894,198000,36,2019-04-13T16:32:45Z,UUStj-ORBZ7TGK1FwtGAUgbQ
-9,UCCezIgC97PvUuR4_gbFUs5g,Corey Schafer,"Welcome to my Channel. This channel is focused on creating tutorials and walkthroughs for software developers, programmers, and engineers. We cover topics for all different skill levels, so whether you are a beginner or have many years of experience, this channel will have something for you.
+",US,4866177,202000,36,2019-04-13T16:32:45Z,UUStj-ORBZ7TGK1FwtGAUgbQ
+28,UCfzlCWGWYyIQ0aLC5w48gBQ,sentdex,"Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development and more.
 
-We've already released a wide variety of videos on topics that include: Python, Git, Development Environments, Terminal Commands, SQL, Programming Terms, JavaScript, Computer Science Fundamentals, and plenty of other tips and tricks which will help you in your career.
+I have ~1000 videos, all of which do not fit on the front page. Try searching on the channel page, or via https://pythonprogramming.net. If you cannot find something, just ask! 
+
+Bitcoin donations: 1GV7srgR4NJx4vrk7avCmmVQQrqmv87ty6
+Paypal donations: HSKinsley@gmail.com",US,94254076,1040000,1225,2012-12-16T20:49:11Z,UUfzlCWGWYyIQ0aLC5w48gBQ
+29,UC80PWRj_ZU8Zu0HSMNVwKWw,Codevolution,Tutorials on the latest tech in web development!,IN,46365285,281000,823,2015-11-20T09:21:06Z,UU80PWRj_ZU8Zu0HSMNVwKWw
+30,UC_ML5xP23TOWKUcc-oAE_Eg,Hussein Nasser,"Join me as we discuss various software engineering topics with examples and adding fun elements to them. We always try to learn by example here in this educational Youtube channel which we believe is the right way to learn. I love Software engineering (especially the backend) and I strive to be a better software engineer every day. Join me on this journey and let us learn together.  
+
+All opinions, suggestions, and tips I provide in all of this channel's content are my own. Information provided is for educational purposes only. 
+
+Consider becoming a member to support the channel
+https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg/join
+
+Stay awesome!
+Hussein Nasser,
+http://www.husseinnasser.com
+Feel free to shoot me an email h@husseinnasser.com
+twitter: @hnasr",US,6883086,137000,642,2014-08-19T07:33:42Z,UU_ML5xP23TOWKUcc-oAE_Eg
+31,UCtHaxi4GTYDpJgMSGy7AeSw,Michael Reeves,🌰,US,311295551,6230000,47,2016-04-15T09:37:57Z,UUtHaxi4GTYDpJgMSGy7AeSw
+32,UCTZRcDjjkVajGL6wd76UnGg,Dennis Ivy,"Sharing what I know about Full Stack Web development with the primary Focus being Python, Django & Javascript at the time. I will be creating Project based tutorials for these Languages/Frameworks/Libraries along with sharing my personal experience.",US,6935269,117000,126,2017-10-24T12:05:18Z,UUTZRcDjjkVajGL6wd76UnGg
+33,UCSJbGtTlrDami-tDGPUV9-w,Academind,"There's always something to learn!
+We (Max & Manuel) create courses and tutorials that teach you everything related to web development. No matter if it's programming languages like JavaScript, runtimes like NodeJS or popular frameworks like ReactJS, Angular or VueJS (and much more!). We got you covered. :-)
+
+• Explore our content on www.academind.com
+• Follow @maxedapps and @academind_real on Twitter
+• Follow @academind_real on Instagram: https://www.instagram.com/academind_real
+• Join our Facebook community on https://www.facebook.com/academindchannel
+
+See you in the videos!
+
+Imprint: https://academind.com/impressum/en
+Please only send business inquiries to the email address, support or video-related questions can not be answered.",DE,52918992,678000,617,2015-12-04T12:55:40Z,UUSJbGtTlrDami-tDGPUV9-w
+34,UCJ3AxeCHGPZkMi3kRfCuiHw,AngelSix,"I develop software and hardware systems in a huge variety of areas
+ 
+Here is where I give away my knowledge for free. Learn anything from C# to Xamarin to soldering, hardware design and more.
+
+www.angelsix.com",GB,7751532,51000,208,2016-12-23T10:09:26Z,UUJ3AxeCHGPZkMi3kRfCuiHw
+35,UCWv7vMbMWH4-V0ZXdmDpPBA,Programming with Mosh,"I train professional software engineers that companies love to hire. 
+
+My courses: http://codewithmosh.com 
+
+My blog: http://programmingwithmosh.com
+
+Connect on social media: 
+
+http://www.twitter.com/moshhamedani
+
+https://www.facebook.com/programmingwithmosh
+
+#python #javascript #chsarp",AU,79813920,1790000,160,2014-10-07T00:40:53Z,UUWv7vMbMWH4-V0ZXdmDpPBA
+36,UCWr0mx597DnSGLFk1WfvSkQ,Kalle Hallden,"Hi, I am 300 moons old. I count everything in moons, it is very confusing for people.
+I like to build stuff with code so that's mostly what I do in my videos",,31976843,503000,186,2015-10-18T20:39:56Z,UUWr0mx597DnSGLFk1WfvSkQ
+37,UCIabPXjvT5BVTxRDPCBBOOQ,Dani,haha yes games,NO,152480163,2380000,65,2018-10-17T18:40:23Z,UUIabPXjvT5BVTxRDPCBBOOQ
+38,UC29ju8bIPH5as8OGnQzwJyA,Traversy Media,"Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP",US,140038994,1540000,879,2009-10-30T21:33:14Z,UU29ju8bIPH5as8OGnQzwJyA
+39,UC-91UA-Xy2Cvb98deRXuggA,Joshua Fluke,I make a variety of content. I'm always having these wild ideas.,US,54770929,449000,988,2010-03-30T16:49:47Z,UU-91UA-Xy2Cvb98deRXuggA
+40,UC-8QAzbLcRglXeN_MY9blyw,Ben Awad,"I'm a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.",US,26780635,311000,1082,2011-10-01T14:10:47Z,UU-8QAzbLcRglXeN_MY9blyw
+41,UCjGQyJCSU_VVMTu5nigonqg,PortEXE,PortEXE is an executable port whose job is to teach you programming; no matter what your skill level is. Subscribe and be part of a growing community of people interested in software. Much more to come!,US,578649,11300,108,2017-12-03T16:54:46Z,UUjGQyJCSU_VVMTu5nigonqg
+42,UCXgGY0wkgOzynnHvSEVmE3A,Hitesh Choudhary,"Website: https://courses.LearnCodeOnline.in
+Hey there everyone, Hitesh here back again with another video!
+This means I create a lot of videos, every single week. I cover a wide range of subjects like programming, what's latest in tech, new frameworks, open-source products etc. I keep my interest in a wide area of tech like Javascript, Python, PHP, Machine Learning, etc.
 
 
-If you enjoy these videos and would like to support my channel, I would greatly appreciate any assistance through my Patreon account:
-https://www.patreon.com/coreyms
+For the Business purpose, Sponsorships and invitation, reach out at hitesh@lco.dev
+
+NOTE: Personal questions and code-related questions are not answered at this email. Post them in the course discussion section or react me out at social platforms.
+
+#iWriteCode
+
+Instagram: https://instagram.com/hiteshchoudharyofficial
+Facebook: www.fb.com/HiteshChoudharyPage",IN,37387705,636000,1013,2011-10-24T10:25:16Z,UUXgGY0wkgOzynnHvSEVmE3A
+43,UCoNZZLhPuuRteu02rh7bzsw,CodingWithMitch,"Learning to code by making real Android projects.
+
+Want some extra help? Check out our courses: https://codingwithmitch.com/courses/",CA,13514585,114000,683,2016-02-22T23:53:42Z,UUoNZZLhPuuRteu02rh7bzsw
+44,UCL-fHOdarou-CR2XUmK48Og,Scott Hanselman,"I'm a teacher. I speak all over to whomever will listen. I have written code that you've likely used. I've been blogging for over a decade and podcasting for about half that. I speak, code, write, empower, promote, learn and listen - usually not in that order.",,8895355,124000,307,2006-03-15T10:14:39Z,UUL-fHOdarou-CR2XUmK48Og
+45,UCNU_lfiiWBdtULKOw6X0Dig,Krish Naik,"I work as a Lead Data Scientist, pioneering in machine learning, deep learning, and computer vision,an educator, and a mentor, with over 8 years' experience in the industry. This is my YouTube channel where I explain various topics on machine learning, deep learning, and AI with many real-world problem scenarios. I have delivered over 30 tech talks on data science, machine learning, and AI at various meet-ups, technical institutions, and community-arranged forums. My main aim is to make everyone familiar of ML and AI.Please subscribe and support the channel. As i love new technology, all these videos are free and I promise to make more interesting content as we go ahead.
+
+Please free to drop a mail for Product unboxing, GPU's unboxing and any other collaboration",IN,26639800,375000,1061,2012-02-11T04:05:06Z,UUNU_lfiiWBdtULKOw6X0Dig
+46,UCfV36TX5AejfAGIbtwTc7Zw,Chris Hawkes,"We're going to learn about programming, web design, responsive web design, Reactjs, Django, Python, web scraping, games, forms applications and more!  Thank you for subscribing!  
+
+Patreon - https://www.patreon.com/chrishawkes
+
+Subscribe to my newsletter - http://codehawke.com/
+
+Thanks, 
+
+Chris",US,19772626,174000,983,2013-02-19T01:07:23Z,UUfV36TX5AejfAGIbtwTc7Zw
+47,UCQ-W1KE9EYfdxhL6S4twUNw,The Cherno,I like to make videos.,AU,38337411,379000,680,2012-02-23T07:29:55Z,UUQ-W1KE9EYfdxhL6S4twUNw
+48,UC9fDC_eBh9e_bogw87DbGKQ,Rachit Jain,"I am Rachit Jain, an IIT Roorkee Alumnus, and a Software Engineer at Microsoft.  
+
+I talk about - 
+1. Data Structures and Algorithms
+2. Competitive Programming
+3. Problem Solving
+4. Motivation
+5. Learning Mindset
+6. Success and Winning
+7. Failures and Reactions
+8. Cracking Interviews
+
+I have given lots and lots of interviews with Google, Microsoft, Goldman Sachs, Directi, Hackerrank and received job offers from all of them, except for one ;)    
+I have worked with Microsoft, Flipkart, Grofers, HackerEarth, Codechef and also delivered lectures in IIIT-H about problem solving and logical reasoning.  
+
+Subscribe, watch video and comment so that we learn from each other! 
+
+If you want to invite me as a speaker for some event, contact me at my Facebook page, LinkedIn profile.",IN,7699733,170000,142,2015-07-01T08:17:37Z,UU9fDC_eBh9e_bogw87DbGKQ
+49,UC2WHjPDvbE6O328n17ZGcfg,ForrestKnight,"Behind the scenes of real software development. I film what I code.
+
+🐱‍🚀 GitHub: https://github.com/forrestknight
+🎥 Twitch: https://www.twitch.tv/forrestknight
+🐦 Twitter: https://www.twitter.com/forrestpknight
+📸 Instagram: https://www.instagram.com/forrestpknight
+
+⚓ First Supply Coffee:  https://bit.ly/firstsupplycoffee
+👨‍💻 My Coding Gear:  https://bit.ly/my-coding-gear
+
+📓 Learning Resources: 
+My Favorite Machine Learning Course:  https://bit.ly/coursera-forrest
+Open Source Computer Science Degree:  https://bit.ly/open-source-forrest
+Python Open Source Computer Science Degree:  https://bit.ly/python-open-source
+Solid for Algorithms & Coding Interviews (use code ""forrest""):  https://bit.ly/algoexpert-forrest
+",US,15369856,299000,219,2016-07-01T02:50:31Z,UU2WHjPDvbE6O328n17ZGcfg
+50,UCRPMAqdtSgd0Ipeef7iFsKw,Gaurav Sen,"Algorithms and System Design makes a powerful combination! 
+Here are some things I talk about: 
+1) System design
+2) Competitive programming
+3) Artificial intelligence
+
+Subscribe for the latest updates!
+You can catch me in the links mentioned below.",IN,14743512,349000,184,2012-04-20T10:37:45Z,UURPMAqdtSgd0Ipeef7iFsKw
+51,UC46wWUso9H5KPQcoL9iE3Ug,CodingPhase,"javascript, tutorial, javascript (programming language), learn javascript, how to, javascript tutorial, code, programming language (software genre), lesson, help, javascript tutorial for beginners, html, programming, java, css, custom, notepad, mac, windows, site, development, language, markup, text, hyper, internet, to-do, interactive, online, cambridge, quick, dynamic, program, build, from scratch, website, make, science, computer, wright",US,5283580,76400,936,2016-01-25T01:16:48Z,UU46wWUso9H5KPQcoL9iE3Ug
+52,UCADyUOnhyEoQqrw_RrsGleA,Chris Coyier,"This is the official YouTube channel for CSS-Tricks, a web design community curated by Chris Coyier. https://css-tricks.com",,3641360,59200,292,2011-05-12T01:53:15Z,UUADyUOnhyEoQqrw_RrsGleA
+53,UCnVzApLJE2ljPZSeQylSEyg,Data School,"Are you trying to learn data science so that you can get your first data science job? You're probably confused about what you're ""supposed"" to learn, and then you have the hardest time actually finding lessons you can understand!
+
+Data School focuses you on the topics you need to master first, and offers in-depth tutorials that you can understand regardless of your educational background.
+
+My name is Kevin Markham, and I'm the founder of Data School. I've taught data science using the Python programming language to hundreds of students in the classroom, and hundreds of thousands of students (like you) online.
+
+Finding the right teacher was so important to my data science education, and so I sincerely hope that I can be the right data science teacher for you.
+
+Please click the SUBSCRIBE button to be notified of my new data science tutorials! I look forward to interacting with you in the comments :)",US,8562724,174000,100,2014-04-30T18:49:17Z,UUnVzApLJE2ljPZSeQylSEyg
+54,UCS5tt2z_DFvG7-39J3aE-bQ,Life of Boris,"Welcome to Life of Boris YouTube channel, Home of Slav King.
+On this channel, you find slav gaming, lifestyle, cooking, car reviews, custom PC builds, animation and tutorials including end of month and budget cooking.
+Stay cheeki breeki!
+
+Enable notifications to join notification squad! 
+For updates and polls, follow me on my social media below.",EE,511937602,3310000,345,2012-07-06T22:31:15Z,UUS5tt2z_DFvG7-39J3aE-bQ
+55,UChYfrRp_CWyqOt-ZYJGOgmA,Chuck Severance,,,7701297,61200,876,2006-08-19T14:24:00Z,UUhYfrRp_CWyqOt-ZYJGOgmA
+56,UCX9NJ471o7Wie1DQe94RVIg,Fazt,"Fazt es un canal en donde podrás encontrar una variedad de videos de programación, desarrollo Web y muchos otros temas relacionados al mundo de la informática en general. Desde aprender las bases de un lenguaje de programacion hasta subir tu sitio o aplicación Web. Bienvenido al mundo de la web, un mundo en el que la información es libre, al igual que la información de este canal.",PE,28843963,363000,347,2015-08-07T19:52:57Z,UUX9NJ471o7Wie1DQe94RVIg
+57,UCgzKCeDYLRzPhQ64R6AKyBQ,Life of Luba,"I'm Luba and on my channel, you can expect things about entrepreneurship, motivation, and lifestyle! 
+
+My goal is to help as many people as possible realize their own potential and motivate them to reach for their dreams. I also spend time singing opera, reading about productivity, and mentoring startups.
+
+I spent the last 6 years working in tech for companies like Airbnb and Yelp, where I worked as a Software Engineer, Chief of Staff, and most recently, Product Manager.
+
+Originally from Belarus, at the age of 17, I studied Chemical Engineering and Computer Science at the University of Waterloo in Canada and Technical University of Munich. 
+
+Now I'm on a path to run my own businesses. Visit https://www.loka.dev/ if you want to hire the best Eastern European engineers for your fast-growing company. 
+
+Videos come out weekly most of the time :)
+
+Thank you for tuning in!
+♥ Luba
+",US,4877295,103000,108,2018-03-02T23:31:14Z,UUgzKCeDYLRzPhQ64R6AKyBQ
+58,UC54NcJvLCvM2CNaBjd5j6HA,RealToughCandy,"Are you ready to get into the tech industry as a software developer? You've come to the right spot! 
+
+RealToughCandy is your home for REAL-WORLD development education. Everything I share here is based on real-life situations, and I'm here to tell you how the industry really works. I've helped over a million people and I'm excited to help millions more.
+
+Some of the tech I feature includes HTML, CSS & JavaScript; React; PHP; Linux + LAMP stack, MERN stack & more. I also teach people how to become freelance web developers.
+
+If you want to change your life for the better and work in an exciting, high-paying career field, subscribe NOW.
+
+👉👉👉Check out my #1 course Freelance Newbie that has helped over a THOUSAND people start their freelance web development careers: https://realtoughcandy.io/p/freelance-newbie-become-a-freelance-web-developer
+
+👉👉👉I'm the author of FIVE TOP RATED books: https://amzn.to/2RLwsay
+
+👉👉👉 Where I review tech stuff: www.realtoughcandy.com
+",US,1873054,45100,159,2015-03-25T00:36:49Z,UU54NcJvLCvM2CNaBjd5j6HA
+59,UCWym_j-OGCzIfz8K4vXtU6g,IIMB Inventors Inventing Machine Business,"The IIMB stands for Inventor's Inventing Machine Business. 
+This channel relates to hardware and software information provided by us. We shall provide you with a whole lot of innovative projects and ton of technical info on this channel. 
+Go building.
+Go inventing.
+
+You can visit my website to know more:
+https://www.prajwal-iimb.com/",IN,5646,86,24,2018-11-18T12:23:23Z,UUWym_j-OGCzIfz8K4vXtU6g
+60,UCzn6vAfspIcagLax1fck_jw,Pasja informatyki,"Mirosław Zelent i Damian Stelmach - zmieniamy naukę informatyki na bardziej przystępną. Wierzymy w nauczanie, które rozpala pasję, a nie takie, które wynika z przymusu. Tworzymy dopracowane tutoriale video, artykuły tekstowe, podcasty, testy i zadania do rozwiązania dostępne dla wszystkich za darmo. Naszym celem jest osiągać wielokrotnie zadziwiający stopień przyswajalności materiału - taki, który pozwoli każdemu, kto tylko zechce popracować, stawać się o mały krok lepszym w tym co robi. Temat po temacie, film po filmie, wykład po wykładzie. 
+
+Chcesz wesprzeć ten kanał? Zajrzyj tutaj: patronite.pl/pasja-informatyki
+Masz pytanie dotyczące odcinka? Nie pytaj w komentarzach, zadaj je na forum: forum.pasja-informatyki.pl 
+Współpraca reklamowa: http://miroslawzelent.pl/wspolpraca/
+
+Nie odpisujemy na pw na YT, ani na  osobistych profilach na FB. 
+Kontakt (jedynie w celach biznesowych): kontakt@pasja-informatyki.pl
+Nasz content dostarczamy na zasadzie ""as is"".",PL,45147960,323000,200,2012-02-05T10:44:16Z,UUzn6vAfspIcagLax1fck_jw
+61,UCm8jfNyHA7FIrFdYQTOpy0g,Papaya Coders,"We, Papaya Coders are trying to provide our best for your betterment. We are here for all of your programming needs. Services that we provide are:
+YouTube videos for beginners in programming.
+Crash courses for different technologies.
+Project oriented YouTube videos
+Programming guides.
+An interface to solve your errors using insta-tele-whatsapp.
+We also develop application and website for you using your favourite technology.
+We would like to hire students as freelancers.
+
+We all know that the time is tough. Our Doctors, Nurses, Police, Soldiers and Government are trying their best for the country. When we stand together, we win together. 
+Stay home, Stay connected.
+",IN,300927,2990,284,2020-03-07T09:02:15.347561Z,UUm8jfNyHA7FIrFdYQTOpy0g
+62,UCpQ9kTWohSlFgXIKJmFc4kA,Thomas Kim,For those who like programming.,KR,729439,3130,1001,2010-09-18T22:21:17Z,UUpQ9kTWohSlFgXIKJmFc4kA
+63,UCu47q4mYoq9t0bINCWaTsgA,Ryan Dhungel,"Simplified Web Development Tutorials on PHP, Laravel, Bootstrap, WordPress and more",AU,248023,1950,162,2007-03-30T18:08:53Z,UUu47q4mYoq9t0bINCWaTsgA
+64,UCBPRJjIWfyNG4X-CRbnv78A,Abhishek Thakur,"I make videos about applied machine learning, deep learning and data science.
+I am the world's first 4x grandmaster on Kaggle.
+
+Buy my book:
+
+Original B&W Copy:
+INDIA: https://bit.ly/aamlpothi
+USA: https://www.amazon.com/dp/8269211508
+UK: https://www.amazon.co.uk/dp/8269211508
+Germany: https://www.amazon.de/dp/8269211508
+France: https://www.amazon.fr/dp/8269211508
+Spain: https://www.amazon.es/dp/8269211508
+Italy: https://www.amazon.it/dp/8269211508
+Japan: https://www.amazon.co.jp/dp/8269211508
+Canada: https://www.amazon.ca/dp/8269211508
 
 
-You can find me on:
-My website - http://coreyms.com/
-Facebook - https://www.facebook.com/CoreyMSchafer
-Twitter - https://twitter.com/CoreyMSchafer
-Google Plus - https://plus.google.com/+CoreySchafer44/posts
-Tumblr - https://www.tumblr.com/blog/mycms",US,57450289,778000,230,2006-05-31T22:49:22Z,UUCezIgC97PvUuR4_gbFUs5g
+Color / special collector's edition:
+INDIA: https://bit.ly/aamlpothicolor
+USA: https://www.amazon.com/dp/B08DC3ZFZZ
+UK: https://www.amazon.co.uk/dp/B08DC3ZFZZ
+Japan: https://www.amazon.co.jp/dp/B08DC3ZFZZ
+Germany: https://www.amazon.de/dp/B08DC3ZFZZ
+France: https://www.amazon.fr/dp/B08DC3ZFZZ
+Italy: https://www.amazon.it/dp/B08DC3ZFZZ
+Spain: https://www.amazon.es/dp/B08DC3ZFZZ
+Canada: https://www.amazon.ca/dp/B08DC3ZFZZ",NO,940855,47100,92,2009-05-24T11:41:32Z,UUBPRJjIWfyNG4X-CRbnv78A
+65,UCTjPBE9BNsmv44wgxWEy2zw,Will Kwan,trying to build cool stuff but it's sometimes bad,CA,7240769,134000,31,2017-06-04T22:17:54Z,UUTjPBE9BNsmv44wgxWEy2zw
+66,UCjM2CgqAXgXQuFjJa732IRw,Perfect Web Solutions,"Perfect web solutions provide Quality Tutorials on Web Development, Web Design, using ( WordPress, Laravel, CodeIgniter, PHP & MySQL ) and we are currently working on preparing Tutorials on Artificial Intelligence, Machine Learning using Python and Packages like Tensorflow, Keras, Pandas, NumPy and some other Cool Web Development Packages like Django and Flask.
+
+For business inquiries: itsmeleo.qureshi@gmail.com
+
+Visit our Fan Page on Facebook: https://www.facebook.com/pwspkjlm
+
+Our Group on Facebook: https://www.facebook.com/groups/1279782712164479/
+
+Visit our Fan Page on Twitter: @pwsjlmpk
+
+Join me on Instagram: @perfectwebsolutionspk
+
+our WhatsApp group: https://chat.whatsapp.com/6tSVUlX2ltCIsWe6b3UtlU
+
+Visit our Website: http://www.bestsoftpro.com
+
+Visit our Official Website: https://perfectwebsolutions.info
+
+Thank You!
+@Perfect Web Solutions",PK,2693788,28300,1283,2015-06-26T22:35:34Z,UUjM2CgqAXgXQuFjJa732IRw
+67,UCbjozK_PYCTLEluFlrJ8UZg,Durga Software Solutions,"DURGA Software Solutions is an Institute, which having more experienced and talented faculties to guide students.  It is resided at Hyderabad, India. Our Youtube channel represents our organization expertise and we are very happy to share our knowledge through out the Globe.
+
+Visit Course wise Videos at:
+http://durgasoftvideos.com
+
+
+Subscribe to this Channel to get new updates, free tutorial videos from us : 
+http://www.youtube.com/subscription_center?add_user=durgasoftware
+
+Share, Comment on our Videos and Subscribe the Channel with your friends and colleagues to upgrade the skills.
+
+For more queries & enquire us for demo sessions, updates send us an email to   durgasoftonlinetraining@gmail.com
+
+Contact directly@:
+Durga Software Solutions
+Ph:  +91-888 525 2627  (Santhosh) 
+        +91-720 721 2428  
+        +91-720 721 2427
+        +91-8096969696
+        +1-(443) 332-6786
+http://durgasoft.com
+http://durgasoftonline.com
+http://durgasoftonlinetraining.com",IN,123585162,577000,16092,2014-02-03T04:15:47Z,UUbjozK_PYCTLEluFlrJ8UZg
