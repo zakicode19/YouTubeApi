@@ -1,0 +1,263 @@
+CC,a-2,continent
+AS,AF,Asia
+EU,AL,Europe
+AN,AQ,Antarctica
+AF,DZ,Africa
+OC,AS,Oceania
+EU,AD,Europe
+AF,AO,Africa
+NA,AG,North america
+AS,AZ,Asia
+EU,AZ,Europe
+SA,AR,South america
+OC,AU,Oceania
+EU,AT,Europe
+NA,BS,North america
+AS,BH,Asia
+AS,BD,Asia
+AS,AM,Asia
+EU,AM,Europe
+NA,BB,North america
+EU,BE,Europe
+NA,BM,North america
+AS,BT,Asia
+SA,BO,South america
+EU,BA,Europe
+AF,BW,Africa
+AN,BV,Antarctica
+SA,BR,South america
+NA,BZ,North america
+AF,IO,Africa
+OC,SB,Oceania
+NA,VG,North america
+AS,BN,Asia
+EU,BG,Europe
+AS,MM,Asia
+AF,BI,Africa
+EU,BY,Europe
+AS,KH,Asia
+AF,CM,Africa
+NA,CA,North america
+AF,CV,Africa
+NA,KY,North america
+AF,CF,Africa
+AS,LK,Asia
+AF,TD,Africa
+SA,CL,South america
+AS,CN,Asia
+AS,TW,Asia
+AS,CX,Asia
+AS,CC,Asia
+SA,CO,South america
+AF,KM,Africa
+AF,YT,Africa
+AF,CG,Africa
+AF,CD,Africa
+OC,CK,Oceania
+NA,CR,North america
+EU,HR,Europe
+NA,CU,North america
+AS,CY,Asia
+EU,CY,Europe
+EU,CZ,Europe
+AF,BJ,Africa
+EU,DK,Europe
+NA,DM,North america
+NA,DO,North america
+SA,EC,South america
+NA,SV,North america
+AF,GQ,Africa
+AF,ET,Africa
+AF,ER,Africa
+EU,EE,Europe
+EU,FO,Europe
+SA,FK,South america
+AN,GS,Antarctica
+OC,FJ,Oceania
+EU,FI,Europe
+EU,AX,Europe
+EU,FR,Europe
+SA,GF,South america
+OC,PF,Oceania
+AF,TF,Africa
+AF,DJ,Africa
+AF,GA,Africa
+AS,GE,Asia
+EU,GE,Europe
+AF,GM,Africa
+EU,DE,Europe
+AF,GH,Africa
+EU,GI,Europe
+OC,KI,Oceania
+EU,GR,Europe
+NA,GL,North america
+NA,GD,North america
+NA,GP,North america
+OC,GU,Oceania
+NA,GT,North america
+AF,GN,Africa
+SA,GY,South america
+NA,HT,North america
+AN,HM,Antarctica
+EU,VA,Europe
+NA,HN,North america
+AS,HK,Asia
+EU,HU,Europe
+EU,IS,Europe
+AS,IN,Asia
+AS,ID,Asia
+AS,IR,Asia
+AS,IQ,Asia
+EU,IE,Europe
+AS,IL,Asia
+EU,IT,Europe
+AF,CI,Africa
+NA,JM,North america
+AS,JP,Asia
+AS,KZ,Asia
+EU,KZ,Europe
+AS,JO,Asia
+AF,KE,Africa
+AS,KP,Asia
+AS,KR,Asia
+EU,XK,Europe
+AS,KW,Asia
+AS,KG,Asia
+AS,LA,Asia
+AS,LB,Asia
+AF,LS,Africa
+EU,LV,Europe
+AF,LR,Africa
+AF,LY,Africa
+EU,LI,Europe
+EU,LT,Europe
+EU,LU,Europe
+AS,MO,Asia
+AF,MG,Africa
+AF,MW,Africa
+AS,MY,Asia
+AS,MV,Asia
+AF,ML,Africa
+EU,MT,Europe
+NA,MQ,North america
+AF,MR,Africa
+AF,MU,Africa
+NA,MX,North america
+EU,MC,Europe
+AS,MN,Asia
+EU,MD,Europe
+EU,ME,Europe
+NA,MS,North america
+AF,MA,Africa
+AF,MZ,Africa
+AS,OM,Asia
+AF,NA,Africa
+OC,NR,Oceania
+AS,NP,Asia
+EU,NL,Europe
+NA,CW,North america
+NA,AW,North america
+NA,SX,North america
+NA,BQ,North america
+OC,NC,Oceania
+OC,VU,Oceania
+OC,NZ,Oceania
+NA,NI,North america
+AF,NE,Africa
+AF,NG,Africa
+OC,NU,Oceania
+OC,NF,Oceania
+EU,NO,Europe
+OC,MP,Oceania
+NA,UM,North america
+OC,UM,Oceania
+OC,FM,Oceania
+OC,MH,Oceania
+OC,PW,Oceania
+AS,PK,Asia
+AS,PS,Asia
+NA,PA,North america
+OC,PG,Oceania
+SA,PY,South america
+SA,PE,South america
+AS,PH,Asia
+OC,PN,Oceania
+EU,PL,Europe
+EU,PT,Europe
+AF,GW,Africa
+AS,TL,Asia
+NA,PR,North america
+AS,QA,Asia
+AF,RE,Africa
+EU,RO,Europe
+AS,RU,Asia
+EU,RU,Europe
+AF,RW,Africa
+NA,BL,North america
+AF,SH,Africa
+NA,KN,North america
+NA,AI,North america
+NA,LC,North america
+NA,MF,North america
+NA,PM,North america
+NA,VC,North america
+EU,SM,Europe
+AF,ST,Africa
+AS,SA,Asia
+AF,SN,Africa
+EU,RS,Europe
+AF,SC,Africa
+AF,SL,Africa
+AS,SG,Asia
+EU,SK,Europe
+AS,VN,Asia
+EU,SI,Europe
+AF,SO,Africa
+AF,ZA,Africa
+AF,ZW,Africa
+EU,ES,Europe
+AF,SS,Africa
+AF,SD,Africa
+AF,EH,Africa
+SA,SR,South america
+EU,SJ,Europe
+AF,SZ,Africa
+EU,SE,Europe
+EU,CH,Europe
+AS,SY,Asia
+AS,TJ,Asia
+AS,TH,Asia
+AF,TG,Africa
+OC,TK,Oceania
+OC,TO,Oceania
+NA,TT,North america
+AS,AE,Asia
+AF,TN,Africa
+AS,TR,Asia
+EU,TR,Europe
+AS,TM,Asia
+NA,TC,North america
+OC,TV,Oceania
+AF,UG,Africa
+EU,UA,Europe
+EU,MK,Europe
+AF,EG,Africa
+AS,EG,Asia
+EU,GB,Europe
+EU,GG,Europe
+EU,JE,Europe
+EU,IM,Europe
+AF,TZ,Africa
+NA,US,North america
+NA,VI,North america
+AF,BF,Africa
+SA,UY,South america
+AS,UZ,Asia
+SA,VE,South america
+OC,WF,Oceania
+OC,WS,Oceania
+AS,YE,Asia
+AF,ZM,Africa
+AS,XD,Asia
+AS,XS,Asia
+OC,XX,Oceania
