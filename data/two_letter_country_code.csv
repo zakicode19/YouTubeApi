@@ -1,253 +1,253 @@
-,ISO 3166 ALPHA-2,Country
-0,AF,Afghanistan
-1,AX,Aland Islands
-2,AL,Albania
-3,DZ,Algeria
-4,AS,American Samoa
-5,AD,Andorra
-6,AO,Angola
-7,AI,Anguilla
-8,AQ,Antarctica
-9,AG,Antigua and Barbuda
-10,AR,Argentina
-11,AM,Armenia
-12,AW,Aruba
-13,AU,Australia
-14,AT,Austria
-15,AZ,Azerbaijan
-16,BS,Bahamas
-17,BH,Bahrain
-18,BD,Bangladesh
-19,BB,Barbados
-20,BY,Belarus
-21,BE,Belgium
-22,BZ,Belize
-23,BJ,Benin
-24,BM,Bermuda
-25,BT,Bhutan
-26,BO,Bolivia
-27,BQ,"Bonaire, Saint Eustatius and Saba"
-28,BA,Bosnia and Herzegovina
-29,BW,Botswana
-30,BV,Bouvet Island
-31,BR,Brazil
-32,IO,British Indian Ocean Territory
-33,VG,British Virgin Islands
-34,BN,Brunei
-35,BG,Bulgaria
-36,BF,Burkina Faso
-37,BI,Burundi
-38,KH,Cambodia
-39,CM,Cameroon
-40,CA,Canada
-41,CV,Cape Verde
-42,KY,Cayman Islands
-43,CF,Central African Republic
-44,TD,Chad
-45,CL,Chile
-46,CN,China
-47,CX,Christmas Island
-48,CC,Cocos Islands
-49,CO,Colombia
-50,KM,Comoros
-51,CK,Cook Islands
-52,CR,Costa Rica
-53,HR,Croatia
-54,CU,Cuba
-55,CW,Curacao
-56,CY,Cyprus
-57,CZ,Czech Republic
-58,CD,Democratic Republic of the Congo
-59,DK,Denmark
-60,DJ,Djibouti
-61,DM,Dominica
-62,DO,Dominican Republic
-63,TL,East Timor
-64,EC,Ecuador
-65,EG,Egypt
-66,SV,El Salvador
-67,GQ,Equatorial Guinea
-68,ER,Eritrea
-69,EE,Estonia
-70,ET,Ethiopia
-71,FK,Falkland Islands
-72,FO,Faroe Islands
-73,FJ,Fiji
-74,FI,Finland
-75,FR,France
-76,GF,French Guiana
-77,PF,French Polynesia
-78,TF,French Southern Territories
-79,GA,Gabon
-80,GM,Gambia
-81,GE,Georgia
-82,DE,Germany
-83,GH,Ghana
-84,GI,Gibraltar
-85,GR,Greece
-86,GL,Greenland
-87,GD,Grenada
-88,GP,Guadeloupe
-89,GU,Guam
-90,GT,Guatemala
-91,GG,Guernsey
-92,GN,Guinea
-93,GW,Guinea-Bissau
-94,GY,Guyana
-95,HT,Haiti
-96,HM,Heard Island and McDonald Islands
-97,HN,Honduras
-98,HK,Hong Kong
-99,HU,Hungary
-100,IS,Iceland
-101,IN,India
-102,ID,Indonesia
-103,IR,Iran
-104,IQ,Iraq
-105,IE,Ireland
-106,IM,Isle of Man
-107,IL,Israel
-108,IT,Italy
-109,CI,Ivory Coast
-110,JM,Jamaica
-111,JP,Japan
-112,JE,Jersey
-113,JO,Jordan
-114,KZ,Kazakhstan
-115,KE,Kenya
-116,KI,Kiribati
-117,XK,Kosovo
-118,KW,Kuwait
-119,KG,Kyrgyzstan
-120,LA,Laos
-121,LV,Latvia
-122,LB,Lebanon
-123,LS,Lesotho
-124,LR,Liberia
-125,LY,Libya
-126,LI,Liechtenstein
-127,LT,Lithuania
-128,LU,Luxembourg
-129,MO,Macao
-130,MK,Macedonia
-131,MG,Madagascar
-132,MW,Malawi
-133,MY,Malaysia
-134,MV,Maldives
-135,ML,Mali
-136,MT,Malta
-137,MH,Marshall Islands
-138,MQ,Martinique
-139,MR,Mauritania
-140,MU,Mauritius
-141,YT,Mayotte
-142,MX,Mexico
-143,FM,Micronesia
-144,MD,Moldova
-145,MC,Monaco
-146,MN,Mongolia
-147,ME,Montenegro
-148,MS,Montserrat
-149,MA,Morocco
-150,MZ,Mozambique
-151,MM,Myanmar
-152,NA,Namibia
-153,NR,Nauru
-154,NP,Nepal
-155,NL,Netherlands
-156,AN,Netherlands Antilles
-157,NC,New Caledonia
-158,NZ,New Zealand
-159,NI,Nicaragua
-160,NE,Niger
-161,NG,Nigeria
-162,NU,Niue
-163,NF,Norfolk Island
-164,KP,North Korea
-165,MP,Northern Mariana Islands
-166,NO,Norway
-167,OM,Oman
-168,PK,Pakistan
-169,PW,Palau
-170,PS,Palestinian Territory
-171,PA,Panama
-172,PG,Papua New Guinea
-173,PY,Paraguay
-174,PE,Peru
-175,PH,Philippines
-176,PN,Pitcairn
-177,PL,Poland
-178,PT,Portugal
-179,PR,Puerto Rico
-180,QA,Qatar
-181,CG,Republic of the Congo
-182,RE,Reunion
-183,RO,Romania
-184,RU,Russia
-185,RW,Rwanda
-186,BL,Saint Barthelemy
-187,SH,Saint Helena
-188,KN,Saint Kitts and Nevis
-189,LC,Saint Lucia
-190,MF,Saint Martin
-191,PM,Saint Pierre and Miquelon
-192,VC,Saint Vincent and the Grenadines
-193,WS,Samoa
-194,SM,San Marino
-195,ST,Sao Tome and Principe
-196,SA,Saudi Arabia
-197,SN,Senegal
-198,RS,Serbia
-199,CS,Serbia and Montenegro
-200,SC,Seychelles
-201,SL,Sierra Leone
-202,SG,Singapore
-203,SX,Sint Maarten
-204,SK,Slovakia
-205,SI,Slovenia
-206,SB,Solomon Islands
-207,SO,Somalia
-208,ZA,South Africa
-209,GS,South Georgia and the South Sandwich Islands
-210,KR,South Korea
-211,SS,South Sudan
-212,ES,Spain
-213,LK,Sri Lanka
-214,SD,Sudan
-215,SR,Suriname
-216,SJ,Svalbard and Jan Mayen
-217,SZ,Swaziland
-218,SE,Sweden
-219,CH,Switzerland
-220,SY,Syria
-221,TW,Taiwan
-222,TJ,Tajikistan
-223,TZ,Tanzania
-224,TH,Thailand
-225,TG,Togo
-226,TK,Tokelau
-227,TO,Tonga
-228,TT,Trinidad and Tobago
-229,TN,Tunisia
-230,TR,Turkey
-231,TM,Turkmenistan
-232,TC,Turks and Caicos Islands
-233,TV,Tuvalu
-234,VI,U.S. Virgin Islands
-235,UG,Uganda
-236,UA,Ukraine
-237,AE,United Arab Emirates
-238,GB,United Kingdom
-239,US,United States
-240,UM,United States Minor Outlying Islands
-241,UY,Uruguay
-242,UZ,Uzbekistan
-243,VU,Vanuatu
-244,VA,Vatican
-245,VE,Venezuela
-246,VN,Vietnam
-247,WF,Wallis and Futuna
-248,EH,Western Sahara
-249,YE,Yemen
-250,ZM,Zambia
-251,ZW,Zimbabwe
+ISO 3166 ALPHA-2,Country
+AF,Afghanistan
+AX,Aland Islands
+AL,Albania
+DZ,Algeria
+AS,American Samoa
+AD,Andorra
+AO,Angola
+AI,Anguilla
+AQ,Antarctica
+AG,Antigua and Barbuda
+AR,Argentina
+AM,Armenia
+AW,Aruba
+AU,Australia
+AT,Austria
+AZ,Azerbaijan
+BS,Bahamas
+BH,Bahrain
+BD,Bangladesh
+BB,Barbados
+BY,Belarus
+BE,Belgium
+BZ,Belize
+BJ,Benin
+BM,Bermuda
+BT,Bhutan
+BO,Bolivia
+BQ,"Bonaire, Saint Eustatius and Saba"
+BA,Bosnia and Herzegovina
+BW,Botswana
+BV,Bouvet Island
+BR,Brazil
+IO,British Indian Ocean Territory
+VG,British Virgin Islands
+BN,Brunei
+BG,Bulgaria
+BF,Burkina Faso
+BI,Burundi
+KH,Cambodia
+CM,Cameroon
+CA,Canada
+CV,Cape Verde
+KY,Cayman Islands
+CF,Central African Republic
+TD,Chad
+CL,Chile
+CN,China
+CX,Christmas Island
+CC,Cocos Islands
+CO,Colombia
+KM,Comoros
+CK,Cook Islands
+CR,Costa Rica
+HR,Croatia
+CU,Cuba
+CW,Curacao
+CY,Cyprus
+CZ,Czech Republic
+CD,Democratic Republic of the Congo
+DK,Denmark
+DJ,Djibouti
+DM,Dominica
+DO,Dominican Republic
+TL,East Timor
+EC,Ecuador
+EG,Egypt
+SV,El Salvador
+GQ,Equatorial Guinea
+ER,Eritrea
+EE,Estonia
+ET,Ethiopia
+FK,Falkland Islands
+FO,Faroe Islands
+FJ,Fiji
+FI,Finland
+FR,France
+GF,French Guiana
+PF,French Polynesia
+TF,French Southern Territories
+GA,Gabon
+GM,Gambia
+GE,Georgia
+DE,Germany
+GH,Ghana
+GI,Gibraltar
+GR,Greece
+GL,Greenland
+GD,Grenada
+GP,Guadeloupe
+GU,Guam
+GT,Guatemala
+GG,Guernsey
+GN,Guinea
+GW,Guinea-Bissau
+GY,Guyana
+HT,Haiti
+HM,Heard Island and McDonald Islands
+HN,Honduras
+HK,Hong Kong
+HU,Hungary
+IS,Iceland
+IN,India
+ID,Indonesia
+IR,Iran
+IQ,Iraq
+IE,Ireland
+IM,Isle of Man
+IL,Israel
+IT,Italy
+CI,Ivory Coast
+JM,Jamaica
+JP,Japan
+JE,Jersey
+JO,Jordan
+KZ,Kazakhstan
+KE,Kenya
+KI,Kiribati
+XK,Kosovo
+KW,Kuwait
+KG,Kyrgyzstan
+LA,Laos
+LV,Latvia
+LB,Lebanon
+LS,Lesotho
+LR,Liberia
+LY,Libya
+LI,Liechtenstein
+LT,Lithuania
+LU,Luxembourg
+MO,Macao
+MK,Macedonia
+MG,Madagascar
+MW,Malawi
+MY,Malaysia
+MV,Maldives
+ML,Mali
+MT,Malta
+MH,Marshall Islands
+MQ,Martinique
+MR,Mauritania
+MU,Mauritius
+YT,Mayotte
+MX,Mexico
+FM,Micronesia
+MD,Moldova
+MC,Monaco
+MN,Mongolia
+ME,Montenegro
+MS,Montserrat
+MA,Morocco
+MZ,Mozambique
+MM,Myanmar
+NA,Namibia
+NR,Nauru
+NP,Nepal
+NL,Netherlands
+AN,Netherlands Antilles
+NC,New Caledonia
+NZ,New Zealand
+NI,Nicaragua
+NE,Niger
+NG,Nigeria
+NU,Niue
+NF,Norfolk Island
+KP,North Korea
+MP,Northern Mariana Islands
+NO,Norway
+OM,Oman
+PK,Pakistan
+PW,Palau
+PS,Palestinian Territory
+PA,Panama
+PG,Papua New Guinea
+PY,Paraguay
+PE,Peru
+PH,Philippines
+PN,Pitcairn
+PL,Poland
+PT,Portugal
+PR,Puerto Rico
+QA,Qatar
+CG,Republic of the Congo
+RE,Reunion
+RO,Romania
+RU,Russia
+RW,Rwanda
+BL,Saint Barthelemy
+SH,Saint Helena
+KN,Saint Kitts and Nevis
+LC,Saint Lucia
+MF,Saint Martin
+PM,Saint Pierre and Miquelon
+VC,Saint Vincent and the Grenadines
+WS,Samoa
+SM,San Marino
+ST,Sao Tome and Principe
+SA,Saudi Arabia
+SN,Senegal
+RS,Serbia
+CS,Serbia and Montenegro
+SC,Seychelles
+SL,Sierra Leone
+SG,Singapore
+SX,Sint Maarten
+SK,Slovakia
+SI,Slovenia
+SB,Solomon Islands
+SO,Somalia
+ZA,South Africa
+GS,South Georgia and the South Sandwich Islands
+KR,South Korea
+SS,South Sudan
+ES,Spain
+LK,Sri Lanka
+SD,Sudan
+SR,Suriname
+SJ,Svalbard and Jan Mayen
+SZ,Swaziland
+SE,Sweden
+CH,Switzerland
+SY,Syria
+TW,Taiwan
+TJ,Tajikistan
+TZ,Tanzania
+TH,Thailand
+TG,Togo
+TK,Tokelau
+TO,Tonga
+TT,Trinidad and Tobago
+TN,Tunisia
+TR,Turkey
+TM,Turkmenistan
+TC,Turks and Caicos Islands
+TV,Tuvalu
+VI,U.S. Virgin Islands
+UG,Uganda
+UA,Ukraine
+AE,United Arab Emirates
+GB,United Kingdom
+US,United States
+UM,United States Minor Outlying Islands
+UY,Uruguay
+UZ,Uzbekistan
+VU,Vanuatu
+VA,Vatican
+VE,Venezuela
+VN,Vietnam
+WF,Wallis and Futuna
+EH,Western Sahara
+YE,Yemen
+ZM,Zambia
+ZW,Zimbabwe
