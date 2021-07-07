@@ -1,4 +1,4 @@
-# YouTubeApi
+# Top Programming Guru
 
 In this project, we will use [YouTube API] (https://developers.google.com/youtube/v3) to collect data from any YouTube channel. The collected data will be saved and used later to do data analytics.
 
