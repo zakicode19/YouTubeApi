@@ -81,7 +81,7 @@ We looked at the distributions of the data and the value counts for the various 
 ![alt text](figure/country.png "Pie chart presenting the percentage of channels by country")
 
 ## Database Schema
-![alt text](figure/schems.png "Database Schema")
+![alt text](figure/schema.png "Database Schema")
 
 
 
