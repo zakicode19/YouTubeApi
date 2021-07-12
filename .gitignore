@@ -10,3 +10,8 @@ creat_db.py
 playlist.py
 .ipynb_checkpoints/
 my_app.py
+data/channelList.csv
+data/channelsID.csv
+channelsMergeDB.csv
+data/channelsDB.csv
+data/summeryDB.csv
