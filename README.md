@@ -78,7 +78,7 @@ We looked at the distributions of the data and the value counts for the various 
 
 ![alt text](figure/gender.png "Distribution of youtubers by gender")
 ![alt text](figure/videoCount.png "Video Count by Months and Years")
-
+![alt text](figure/country.png "Pie chart presenting the percentage of channels by country")
 
 
 
