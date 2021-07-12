@@ -27,7 +27,7 @@ We scraped the page (Top Programming Guru)[https://noonies.tech/award/top-progra
 * rank
 
 ## YouTube API
-
+We used the YouTube API to collect the following data for each Top Programming Guru channel:
 * channel name 
 * channel title
 * channel Id
@@ -40,7 +40,7 @@ We scraped the page (Top Programming Guru)[https://noonies.tech/award/top-progra
 * published At
 * uploads
 
-We used YouTube api to scrape 30000 videos data. With each video, we got the following:
+Then  used YouTube api to scrape 30000 videos data. With each video, we got the following:
 
 * video Id
 * title
@@ -57,17 +57,14 @@ We used YouTube api to scrape 30000 videos data. With each video, we got the fol
 
 
 ## Data Cleaning
-After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
-
-* Parsed numeric data out of salary 
+After collacting  the data, We needed to clean it up so that it was usable for our model and visualiszation . we made the following changes and created the following variables:
+ 
 * Removed duplicates channels
-* Removed outliers 
-* Parsed rating out of company text 
+* Removed outliers  
 * Made a new columns for  location
 * Made a new columns to masure interaction with videos 
 * Added a gender column for each youtube channel 
-* Use to data of the first vidoe published in channel to estimate it's age. 
-
+* Used data from the first video uploaded to a channel to estimate its age. (to do)
 
 ## EDA
 We looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
