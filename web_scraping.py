@@ -1,9 +1,9 @@
-'''
+"""
 In this script scrape Data From this web page,
 https://noonies.tech/award/top-programming-guru
-the data collected is stord table of two columns 
+the data collected is stored table of two columns
 the channel Name  and the channel url
-'''
+"""
 
 import re
 from tqdm import tqdm
@@ -18,7 +18,7 @@ chrome_options = Options()
 chrome_options.add_argument("--headless")
 
 url = 'https://noonies.tech/award/top-programming-guru'
-path = '/home/zaki/Downloads/chromedriver_linux64/chromedriver' # path to chromedriver
+path = '/home/zaki/Downloads/chromedriver_linux64/chromedriver'  # path to chromedriver
 driver = webdriver.Chrome(path, options=chrome_options)
 driver.get(url)
 time.sleep(5)
