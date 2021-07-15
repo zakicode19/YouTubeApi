@@ -1,8 +1,8 @@
 """
 In this script scrape Data From this web page,
 https://noonies.tech/award/top-programming-guru
-the data collected is stored table of two columns
-the channel Name  and the channel url
+the data collected is stored table of three columns
+the channel Name, the channel url and the rank
 """
 
 import re

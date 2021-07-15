@@ -9,8 +9,8 @@ The ranking of this YouTube channels  is based on the vote of the community.
 * [Get the Top Programming Guru channels](web_scraping.py)
 * [How to get a YouTube channel Id?](notebook/channels_id.ipynb)
 * [Extract YouTube channel statistics](notebook/channels_statistics.ipynb)
-* [Extract YouTube video statistics](notebook/video_playlist.ipynb)
 * [Analyzing the data set of YouTube channels](notebook/analyzing_summeryDB.ipynb)
+* [Extract YouTube video statistics](notebook/video_playlist.ipynb)
 * [Analyzing the data set of YouTube videos](notebook/analyzing_videosDB.ipynb)
 * [Analyzing the data set of YouTube playlists]()(to do)
 * [Create database from csv file]()(to do)
@@ -92,6 +92,9 @@ We looked at the distributions of the data, and the value counts for the various
 ![alt text](figure/gender.png "Distribution of youtubers by gender")
 ![alt text](figure/videoCount.png "Video Count by Months and Years")
 ![alt text](figure/country.png "Pie chart presenting the percentage of channels by country")
+![alt text](figure/videoCountYear.png)
+![alt text](figure/topics.png "The top trending topics")
+
 
 ## Database Schema
 ![alt text](figure/schema.png "Database Schema")
